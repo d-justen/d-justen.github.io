@@ -13,4 +13,21 @@ Specifically, I am looking into adaptive strategies to reduce performance deteri
 
 ### 2022
 
-- Justen, David: __Cost-efficiency and Performance Robustness in Serverless Data Exchange__, Proceedings of the 2022 International Conference on Management of Data (SIGMOD ’22), Student Research Competition. pp. 2506–2508. Association for Computing Machinery, New York, NY, USA
+- Justen, David: _Cost-efficiency and Performance Robustness in Serverless Data Exchange_. SRC@SIGMOD 2022
+
+## Work Experience
+- __March '22 - present__  
+  _Research Assistant_ @ Hasso Plattner Institute, Potsdam, DE
+- __October '19 - March '20__  
+  _Software Development Intern_ @ SAP, New York, US
+- __March '18 - June '18__  
+  _Software Development Intern_ @ Native Instruments, Berlin, DE
+
+## Education
+- __2018 - 2022__  
+  _IT-Systems Engineering (M.Sc.)_, Hasso Plattner Institute (University of Potsdam)  
+  Thesis: Cost-efficiency and Performance Robustness in Serverless Join Processing
+- __2015 - 2018__  
+  _Media Computer Science (B.Sc.)_, Berlin University of Applied Sciences and Technology  
+  Thesis: Evolving Neural Networks to Steer Autonomous Agents in a Labyrinth
+
