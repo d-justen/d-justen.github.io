@@ -5,9 +5,9 @@
 layout: home
 ---
 
-I am currently a second-year PhD stundent at Technische Universität Berlin, supervised by Matthias Boehm. 
-My research focusses on performance robustness for analytical data processing systems. 
-Specifically, I am looking into adaptive strategies to reduce performance deteriorations from sub-optimal join orders.
+I am a second-year PhD student at Technische Universität Berlin, supervised by [Prof. Matthias Boehm](https://mboehm7.github.io). Prior to this, I was a PhD student at Prof. Hasso Plattner's [Enterprise Platform and Integration Concepts](https://hpi.de/plattner/home.html) (EPIC) chair at the Hasso Plattner Institute in Potsdam.
+My research focusses on query optimization for analytical database systems and cloud-based data processing. 
+Specifically, I am looking into adaptive query processing and robust plan generation to reduce the effects of erroneous cardinality estimates.
 
 ## Publications
 
