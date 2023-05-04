@@ -15,6 +15,12 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 
 - Justen, David: _Cost-efficiency and Performance Robustness in Serverless Data Exchange_. SRC@SIGMOD 2022
 
+## Teaching
+
+- Research and Implementation of Database Concepts (HPI) [[WS22](https://hpi.de/plattner/teaching/winter-term-2022-23/research-and-implementation-of-database-concepts.html)]
+- Develop Your Own Database (HPI) [[SS22](https://hpi.de/plattner/teaching/archive/summer-term-2022/develop-your-own-database.html)] 
+- Trends and Concepts of Business Application Architecture (HPI) [[SS22](https://hpi.de/plattner/teaching/archive/summer-term-2022/trends-and-concepts-of-business-application-architecture.html)]
+
 ## Work Experience
 - __March '22 - present__  
   _Research Assistant_ @ Hasso Plattner Institute, Potsdam, DE
