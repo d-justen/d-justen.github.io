@@ -22,7 +22,9 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 - Trends and Concepts of Business Application Architecture (HPI) [[SS22](https://hpi.de/plattner/teaching/archive/summer-term-2022/trends-and-concepts-of-business-application-architecture.html)]
 
 ## Work Experience
-- __March '22 - present__  
+- __October '23 - present__  
+  _Research Assistant_ @ Technische Universität, Berlin, DE
+- __March '22 - September '23__  
   _Research Assistant_ @ Hasso Plattner Institute, Potsdam, DE
 - __October '19 - March '20__  
   _Software Development Intern_ @ SAP, New York, US
