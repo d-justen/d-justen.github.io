@@ -18,7 +18,7 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 
 ## Teaching
 
-- Programmierpraktikum: Datensysteme (Practicals) [[WS23](https://mboehm7.github.io/teaching/ws2324_ppds/index.htm)]
+- Programming Practical: Data Systems [[WS23](https://mboehm7.github.io/teaching/ws2324_ppds/index.htm)]
 - Research and Implementation of Database Concepts (HPI) [[WS22](https://hpi.de/plattner/teaching/winter-term-2022-23/research-and-implementation-of-database-concepts.html)]
 - Develop Your Own Database (HPI) [[SS22](https://hpi.de/plattner/teaching/archive/summer-term-2022/develop-your-own-database.html)] 
 - Trends and Concepts of Business Application Architecture (HPI) [[SS22](https://hpi.de/plattner/teaching/archive/summer-term-2022/trends-and-concepts-of-business-application-architecture.html)]
