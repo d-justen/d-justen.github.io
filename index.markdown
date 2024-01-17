@@ -5,7 +5,8 @@
 layout: home
 ---
 
-I am a second-year PhD student at Technische Universität Berlin, supervised by [Prof. Matthias Boehm](https://mboehm7.github.io). Prior to this, I was a PhD student at Prof. Hasso Plattner's [Enterprise Platform and Integration Concepts](https://hpi.de/plattner/home.html) (EPIC) chair at the Hasso Plattner Institute in Potsdam.
+I am a second-year PhD student at Technische Universität Berlin, supervised by [Prof. Matthias Boehm](https://mboehm7.github.io) and member of the [BIFOLD](https://www.bifold.berlin) Graduate School. 
+Prior to this, I was a PhD student at Prof. Hasso Plattner's [Enterprise Platform and Integration Concepts](https://hpi.de/plattner/home.html) (EPIC) chair at the Hasso Plattner Institute in Potsdam.
 My research focusses on query optimization for analytical database systems and cloud-based data processing. 
 Specifically, I am looking into adaptive query processing and robust plan generation to reduce the effects of erroneous cardinality estimates.
 
@@ -17,15 +18,16 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 
 ## Teaching
 
+- Programmierpraktikum: Datensysteme (Practicals) [[WS23](https://mboehm7.github.io/teaching/ws2324_ppds/index.htm)]
 - Research and Implementation of Database Concepts (HPI) [[WS22](https://hpi.de/plattner/teaching/winter-term-2022-23/research-and-implementation-of-database-concepts.html)]
 - Develop Your Own Database (HPI) [[SS22](https://hpi.de/plattner/teaching/archive/summer-term-2022/develop-your-own-database.html)] 
 - Trends and Concepts of Business Application Architecture (HPI) [[SS22](https://hpi.de/plattner/teaching/archive/summer-term-2022/trends-and-concepts-of-business-application-architecture.html)]
 
 ## Work Experience
 - __October '23 - present__  
-  _Research Assistant_ @ Technische Universität, Berlin, DE
+  _Research Associate_ @ Technische Universität, Berlin, DE
 - __March '22 - September '23__  
-  _Research Assistant_ @ Hasso Plattner Institute, Potsdam, DE
+  _Research Associate_ @ Hasso Plattner Institute, Potsdam, DE
 - __October '19 - March '20__  
   _Software Development Intern_ @ SAP, New York, US
 - __March '18 - June '18__  

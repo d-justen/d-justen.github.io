@@ -21,8 +21,8 @@
 title: David Justen | TU Berlin 
 email: david.justen@tu-berlin.de
 description: >- # this means to ignore newlines until "baseurl:"
-  David Justen is a research assistant and PhD candidate at Technische Universität
-  Berlin.
+  David Justen is a research associate at Technische Universität
+  Berlin and member of the BIFOLD Graduate School.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://d-justen.github.io # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username:  david-justen
