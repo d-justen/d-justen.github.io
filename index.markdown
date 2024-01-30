@@ -12,9 +12,13 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 
 ## Publications
 
+### 2024
+
+- David Justen, Daniel Ritter, Campbell Fraser, Andrew Lamb, Nga Tran, Allison Lee, Thomas Bodner, Mhd Yamen Haddad, Steffen Zeuch, Volker Markl, Matthias Boehm: _POLAR: Adaptive and Non-invasive Join Order Selection via Plans of Least Resistance_. __PVLDB 2024__
+
 ### 2022
 
-- Justen, David: _Cost-efficiency and Performance Robustness in Serverless Data Exchange_. SRC@SIGMOD 2022
+- David Justen: _Cost-efficiency and Performance Robustness in Serverless Data Exchange_. __SRC@SIGMOD 2022__
 
 ## Teaching
 
@@ -24,6 +28,7 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 - Trends and Concepts of Business Application Architecture (HPI) [[SS22](https://hpi.de/plattner/teaching/archive/summer-term-2022/trends-and-concepts-of-business-application-architecture.html)]
 
 ## Work Experience
+
 - __October '23 - present__  
   _Research Associate_ @ Technische Universität, Berlin, DE
 - __March '22 - September '23__  
@@ -34,10 +39,15 @@ Specifically, I am looking into adaptive query processing and robust plan genera
   _Software Development Intern_ @ Native Instruments, Berlin, DE
 
 ## Education
+
 - __2018 - 2022__  
   _IT-Systems Engineering (M.Sc.)_, Hasso Plattner Institute (University of Potsdam)  
   Thesis: Cost-efficiency and Performance Robustness in Serverless Join Processing
 - __2015 - 2018__  
   _Media Computer Science (B.Sc.)_, Berlin University of Applied Sciences and Technology  
   Thesis: Evolving Neural Networks to Steer Autonomous Agents in a Labyrinth
+
+## Unrelated Interests
+
+Apart from my work as a researcher, I am also an active member of [TAMLI](https://tamli.de), a charitable organization that supervises young adults and delegates them to a voluntary service in a home for people with special needs in Israel. I am also a [part-time DJ](https://soundcloud.com/oshky) - so if you happen to know how to get me a booking at one of Andy Pavlos database courses, hit me up.
 
