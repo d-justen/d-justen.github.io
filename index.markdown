@@ -23,7 +23,7 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 ## Teaching
 
 - Programming Practical: Data Systems [[WS23](https://mboehm7.github.io/teaching/ws2324_ppds/index.htm)]
-- Research and Implementation of Database Concepts (HPI) [[WS22](https://hpi.de/plattner/teaching/winter-term-2022-23/research-and-implementation-of-database-concepts.html)]
+- Research and Implementation of Database Concepts (HPI) [[WS22](https://hpi.de/plattner/teaching/archive/winter-term-2022-23/research-and-implementation-of-database-concepts.html)]
 - Develop Your Own Database (HPI) [[SS22](https://hpi.de/plattner/teaching/archive/summer-term-2022/develop-your-own-database.html)] 
 - Trends and Concepts of Business Application Architecture (HPI) [[SS22](https://hpi.de/plattner/teaching/archive/summer-term-2022/trends-and-concepts-of-business-application-architecture.html)]
 
@@ -49,5 +49,5 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 
 ## Unrelated Interests
 
-Apart from my work as a researcher, I am also an active member of [TAMLI](https://tamli.de), a charitable organization that supervises young adults and delegates them to a voluntary service in a home for people with special needs in Israel. I am also a [part-time DJ](https://soundcloud.com/oshky) - so if you happen to know how to get me a booking at one of Andy Pavlos database courses, hit me up.
+Apart from my work as a researcher, I am also an active member of [TAMLI](https://tamli.de), a charitable organization that supervises young adults and delegates them to a voluntary service in a home for people with special needs in Israel. I am also a [part-time DJ](https://soundcloud.com/oshky) - so if you happen to know how to get me a booking at one of Andy Pavlo's database courses, hit me up.
 
