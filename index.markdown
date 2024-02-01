@@ -50,5 +50,5 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 
 ## Unrelated Interests
 
-Apart from my work as a researcher, I am also an active member of [TAMLI](https://tamli.de), a charitable organization that supervises young adults and delegates them to a voluntary service in a home for people with special needs in Israel. I am also a [part-time DJ](https://soundcloud.com/oshky) - so if you happen to know how to get me a booking at one of Andy Pavlo's database courses, hit me up.
+Besides my work as a researcher I am an active member of [TAMLI](https://tamli.de), a charitable organization that supervises young adults and delegates them to a voluntary service in a home for people with special needs in Israel. I am also a [part-time DJ](https://soundcloud.com/oshky) - so hit me up if you happen to know how to get a booking for Andy Pavlo's database courses.
 
