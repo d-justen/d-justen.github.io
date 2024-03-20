@@ -15,7 +15,7 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 
 ### 2024
 
-- David Justen, Daniel Ritter, Campbell Fraser, Andrew Lamb, Nga Tran, Allison Lee, Thomas Bodner, Mhd Yamen Haddad, Steffen Zeuch, Volker Markl, Matthias Boehm: _POLAR: Adaptive and Non-invasive Join Order Selection via Plans of Least Resistance_. __PVLDB 2024__
+- David Justen, Daniel Ritter, Campbell Fraser, Andrew Lamb, Nga Tran, Allison Lee, Thomas Bodner, Mhd Yamen Haddad, Steffen Zeuch, Volker Markl, Matthias Boehm: _POLAR: Adaptive and Non-invasive Join Order Selection via Plans of Least Resistance_. __PVLDB 2024__ [[paper](assets/p1185-justen.pdf)]
 
 ### 2022
 
