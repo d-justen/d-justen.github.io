@@ -19,7 +19,7 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 
 ### 2022
 
-- David Justen: _Cost-efficiency and Performance Robustness in Serverless Data Exchange_. __SRC@SIGMOD 2022__
+- David Justen: _Cost-efficiency and Performance Robustness in Serverless Data Exchange_. __SRC@SIGMOD 2022__ [[paper](assets/3514221.3520248.pdf)]
 
 ## Teaching
 

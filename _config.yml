@@ -21,7 +21,7 @@
 title: David Justen 
 email: david.justen@tu-berlin.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Researcher @ BIFOLD & TU Berlin
+  Researcher @ TU Berlin & BIFOLD
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://d-justen.github.io # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username:  david-justen
