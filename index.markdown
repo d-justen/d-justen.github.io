@@ -13,13 +13,17 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 
 ## Publications
 
-### 2024
+- Thomas Bodner, Theo Radig, David Justen, Daniel Ritter, Tilmann Rabl:  
+  __An Empirical Evaluation of Serverless Cloud Infrastructure for Large-Scale Data Processing__  
+  EDBT 2025 [[pre-print](https://arxiv.org/pdf/2501.07771)]
 
-- David Justen, Daniel Ritter, Campbell Fraser, Andrew Lamb, Nga Tran, Allison Lee, Thomas Bodner, Mhd Yamen Haddad, Steffen Zeuch, Volker Markl, Matthias Boehm: _POLAR: Adaptive and Non-invasive Join Order Selection via Plans of Least Resistance_. __PVLDB 2024__ [[paper](assets/p1350-justen.pdf), [slides](assets/p1350-justen-slides.pdf), [poster](assets/p1350-justen-poster.pdf)]
+- David Justen, Daniel Ritter, Campbell Fraser, Andrew Lamb, Nga Tran, Allison Lee, Thomas Bodner, Mhd Yamen Haddad, Steffen Zeuch, Volker Markl, Matthias Boehm:  
+  __POLAR: Adaptive and Non-invasive Join Order Selection via Plans of Least Resistance__
+  PVLDB 2024 [[paper](assets/p1350-justen.pdf), [slides](assets/p1350-justen-slides.pdf), [poster](assets/p1350-justen-poster.pdf)]
 
-### 2022
-
-- David Justen: _Cost-efficiency and Performance Robustness in Serverless Data Exchange_. __SRC@SIGMOD 2022__ [[paper](assets/3514221.3520248.pdf)]
+- David Justen:  
+  __Cost-efficiency and Performance Robustness in Serverless Data Exchange__  
+  SRC@SIGMOD 2022 [[paper](assets/3514221.3520248.pdf)]
 
 ## Teaching
 
@@ -27,6 +31,11 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 - Research and Implementation of Database Concepts (HPI) [[WS22](https://hpi.de/plattner/teaching/archive/winter-term-2022-23/research-and-implementation-of-database-concepts.html)]
 - Develop Your Own Database (HPI) [[SS22](https://hpi.de/plattner/teaching/archive/summer-term-2022/develop-your-own-database.html)] 
 - Trends and Concepts of Business Application Architecture (HPI) [[SS22](https://hpi.de/plattner/teaching/archive/summer-term-2022/trends-and-concepts-of-business-application-architecture.html)]
+
+## Thesis Supervision
+
+- Marcel Scholand: _Skewed Data Generation for Realistic Data Warehouse Workloads_. 2024
+- Paul Pohlitz: _Adaptive Join Processing as a DuckDB Extension_. 2024
 
 ## Work Experience
 
@@ -48,7 +57,7 @@ Specifically, I am looking into adaptive query processing and robust plan genera
   _Media Computer Science (B.Sc.)_, Berlin University of Applied Sciences and Technology  
   Thesis: Evolving Neural Networks to Steer Autonomous Agents in a Labyrinth
 
-## Unrelated Interests
+#### Unrelated Interests
 
 Besides my work as a researcher I am an active member of [TAMLI](https://tamli.de), a charitable organization that supervises young adults and delegates them to a voluntary service in a home for people with special needs in Israel. I am also a [part-time DJ](https://soundcloud.com/oshky) - so hit me up if you happen to know how to get a booking for Andy Pavlo's database courses.
 
