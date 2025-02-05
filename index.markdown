@@ -6,8 +6,8 @@ title: David Justen
 layout: home
 ---
 
-I am a second-year PhD student at Technische Universität Berlin, supervised by [Prof. Matthias Boehm](https://mboehm7.github.io) and member of the [BIFOLD](https://www.bifold.berlin) Graduate School. 
-Prior to this, I was a PhD student at Prof. Hasso Plattner's [Enterprise Platform and Integration Concepts](https://hpi.de/plattner/home.html) (EPIC) chair at the Hasso Plattner Institute in Potsdam.
+I am PhD student at Technische Universität Berlin, supervised by [Prof. Matthias Boehm](https://mboehm7.github.io) and member of the [BIFOLD](https://www.bifold.berlin) Graduate School. 
+Prior to this, I was a researcher at Prof. Hasso Plattner's [Enterprise Platform and Integration Concepts](https://hpi.de/plattner/home.html) (EPIC) chair at the Hasso Plattner Institute in Potsdam.
 My research focusses on query optimization for analytical database systems and cloud-based data processing. 
 Specifically, I am looking into adaptive query processing and robust plan generation to reduce the effects of erroneous cardinality estimates.
 
