@@ -1,0 +1,14 @@
+.tag {
+    background-color: #f0f0f0;
+    color: #101010;
+    padding: 5px 10px;
+    border-radius: 50px; /* Creates the ellipse effect */
+    font-size: 12px;
+    font-weight: bold;
+    display: inline-block;
+    white-space: nowrap; /* Prevents wrapping */
+    border: 1px solid #ccc;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+

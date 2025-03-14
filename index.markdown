@@ -15,7 +15,9 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 
 - Thomas Bodner, Theo Radig, David Justen, Daniel Ritter, Tilmann Rabl:  
   __An Empirical Evaluation of Serverless Cloud Infrastructure for Large-Scale Data Processing__  
-  EDBT 2025 [[pre-print](https://arxiv.org/pdf/2501.07771)]
+  EDBT 2025 [[pre-print](https://arxiv.org/pdf/2501.07771), [paper](https://openproceedings.org/2025/conf/edbt/paper-239.pdf)] <tag class="tag">👑 best paper</tag> 
+  
+
 
 - David Justen, Daniel Ritter, Campbell Fraser, Andrew Lamb, Nga Tran, Allison Lee, Thomas Bodner, Mhd Yamen Haddad, Steffen Zeuch, Volker Markl, Matthias Boehm:  
   __POLAR: Adaptive and Non-invasive Join Order Selection via Plans of Least Resistance__
@@ -27,6 +29,7 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 
 ## Teaching
 
+- Information Systems and Data Analytics [[SS25](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40002&version=13)]
 - Programming Practical: Data Systems [[WS23](https://mboehm7.github.io/teaching/ws2324_ppds/index.htm), [SS24](https://mboehm7.github.io/teaching/ss24_ppds/index.htm)]
 - Research and Implementation of Database Concepts (HPI) [[WS22](https://hpi.de/plattner/teaching/archive/winter-term-2022-23/research-and-implementation-of-database-concepts.html)]
 - Develop Your Own Database (HPI) [[SS22](https://hpi.de/plattner/teaching/archive/summer-term-2022/develop-your-own-database.html)] 
@@ -40,9 +43,9 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 ## Work Experience
 
 - __October '23 - present__  
-  _Research Associate_ @ Technische Universität, Berlin, DE
+  _Doctoral Researcher_ @ Technische Universität, Berlin, DE
 - __March '22 - September '23__  
-  _Research Associate_ @ Hasso Plattner Institute, Potsdam, DE
+  _Doctoral Reseracher_ @ Hasso Plattner Institute, Potsdam, DE
 - __October '19 - March '20__  
   _Software Development Intern_ @ SAP, New York, US
 - __March '18 - June '18__  
