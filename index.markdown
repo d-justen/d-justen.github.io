@@ -15,13 +15,13 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 
 - Thomas Bodner, Theo Radig, David Justen, Daniel Ritter, Tilmann Rabl:  
   __An Empirical Evaluation of Serverless Cloud Infrastructure for Large-Scale Data Processing__  
-  EDBT 2025 [[pre-print](https://arxiv.org/pdf/2501.07771), [paper](https://openproceedings.org/2025/conf/edbt/paper-239.pdf)] <tag class="tag">👑 best paper</tag> 
+  EDBT 2025 [[pre-print](https://arxiv.org/pdf/2501.07771), [paper](https://openproceedings.org/2025/conf/edbt/paper-239.pdf), [code](https://github.com/hpides/skyrise)] <tag class="tag">👑 best paper</tag> 
   
 
 
 - David Justen, Daniel Ritter, Campbell Fraser, Andrew Lamb, Nga Tran, Allison Lee, Thomas Bodner, Mhd Yamen Haddad, Steffen Zeuch, Volker Markl, Matthias Boehm:  
   __POLAR: Adaptive and Non-invasive Join Order Selection via Plans of Least Resistance__
-  PVLDB 2024 [[paper](assets/p1350-justen.pdf), [slides](assets/p1350-justen-slides.pdf), [poster](assets/p1350-justen-poster.pdf)]
+  PVLDB 2024 [[paper](assets/p1350-justen.pdf), [slides](assets/p1350-justen-slides.pdf), [poster](assets/p1350-justen-poster.pdf), [repro](https://github.com/damslab/reproducibility/tree/master/vldb2024-POLAR)]
 
 - David Justen:  
   __Cost-efficiency and Performance Robustness in Serverless Data Exchange__  
