@@ -60,7 +60,7 @@ Specifically, I am looking into adaptive query processing and robust plan genera
   _Media Computer Science (B.Sc.)_, Berlin University of Applied Sciences and Technology  
   Thesis: Evolving Neural Networks to Steer Autonomous Agents in a Labyrinth
 
-#### Unrelated Interests
+## Unrelated Interests
 
 Besides my work as a researcher I am an active member of [TAMLI](https://tamli.de), a charitable organization that supervises young adults and delegates them to a voluntary service in a home for people with special needs in Israel. I am also a [part-time DJ](https://soundcloud.com/oshky) - so hit me up if you happen to know how to get a booking for Andy Pavlo's database courses.
 
