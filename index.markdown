@@ -12,13 +12,14 @@ My research focusses on query optimization for analytical database systems and c
 Specifically, I am looking into adaptive query processing and robust plan generation to reduce the effects of erroneous cardinality estimates.
 
 ## Publications
+- David Justen, Matthias Boehm:  
+  __Join Cardinality Estimation with OmniSketches__  
+  arXiv 2025 [[paper](https://arxiv.org/pdf/2508.17931), [code](https://github.com/d-justen/OmniSketchCpp)]  
 
 - Thomas Bodner, Theo Radig, David Justen, Daniel Ritter, Tilmann Rabl:  
   __An Empirical Evaluation of Serverless Cloud Infrastructure for Large-Scale Data Processing__  
-  EDBT 2025 [[pre-print](https://arxiv.org/pdf/2501.07771), [paper](https://openproceedings.org/2025/conf/edbt/paper-239.pdf), [code](https://github.com/hpides/skyrise)] <tag class="tag">👑 best paper</tag> 
+  EDBT 2025 [[paper](https://openproceedings.org/2025/conf/edbt/paper-239.pdf), [code](https://github.com/hpides/skyrise)] <tag class="tag">👑 best paper</tag> 
   
-
-
 - David Justen, Daniel Ritter, Campbell Fraser, Andrew Lamb, Nga Tran, Allison Lee, Thomas Bodner, Mhd Yamen Haddad, Steffen Zeuch, Volker Markl, Matthias Boehm:  
   __POLAR: Adaptive and Non-invasive Join Order Selection via Plans of Least Resistance__
   PVLDB 2024 [[paper](assets/p1350-justen.pdf), [slides](assets/p1350-justen-slides.pdf), [poster](assets/p1350-justen-poster.pdf), [repro](https://github.com/damslab/reproducibility/tree/master/vldb2024-POLAR)]
@@ -59,8 +60,4 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 - __2015 - 2018__  
   _Media Computer Science (B.Sc.)_, Berlin University of Applied Sciences and Technology  
   Thesis: Evolving Neural Networks to Steer Autonomous Agents in a Labyrinth
-
-## Unrelated Interests
-
-Besides my work as a researcher I am an active member of [TAMLI](https://tamli.de), a charitable organization that supervises young adults and delegates them to a voluntary service in a home for people with special needs in Israel. I am also a [part-time DJ](https://soundcloud.com/oshky) - so hit me up if you happen to know how to get a booking for Andy Pavlo's database courses.
 
