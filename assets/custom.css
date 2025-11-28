@@ -12,3 +12,15 @@
     margin-right: 3px;
 }
 
+pre, code {
+    font-size: 13px;
+}
+
+li {
+    margin-bottom: 15px;
+}
+
+h2 {
+   margin-top: 25px;
+   margin-bottom: 10px;
+}

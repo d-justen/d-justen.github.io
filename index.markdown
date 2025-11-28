@@ -44,23 +44,22 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 ## Work Experience
 
 - **DuckDB Labs**, Amsterdam, NL  
-  *Sep '25 - Nov '25*: Software Engineering Intern
+  `Sep '25 - Nov '25` Software Engineering Intern
 - **BIFOLD, Technische Universität**, Berlin, DE  
-  *Oct '23 - now*: Doctoral Researcher
+  `Oct '23 - present` Doctoral Researcher
 - **Hasso Plattner Institute**, Potsdam, DE  
-  *Mar '22 - Sep '23*: Doctoral Researcher
+  `Mar '22 - Sep '23` Doctoral Researcher
 - **SAP**, New York, US  
-  *Oct '19 - Mar '20*: Software Engineering Intern
-  _Software Development Intern_ @ SAP, New York, US
-- __March '18 - June '18__  
-  _Software Development Intern_ @ Native Instruments, Berlin, DE
+  `Oct '19 - Mar '20` Software Engineering Intern
+- **Native Instruments**, Berlin, DE  
+  `Mar '18 - Jun '18` Software Engineering Intern
 
 ## Education
 
-- __2018 - 2022__  
-  _IT-Systems Engineering (M.Sc.)_, Hasso Plattner Institute (University of Potsdam)  
+- **Hasso Plattner Institute**, Potsdam, DE  
+  `'18 - '22` IT-Systems Engineering (M.Sc.)  
   Thesis: Cost-efficiency and Performance Robustness in Serverless Join Processing
-- __2015 - 2018__  
-  _Media Computer Science (B.Sc.)_, Berlin University of Applied Sciences and Technology  
+- **BHT**, Berlin, DE  
+  `'15 - '18` Media Computer Science (B.Sc.)  
   Thesis: Evolving Neural Networks to Steer Autonomous Agents in a Labyrinth
 
