@@ -46,7 +46,7 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 - __October '23 - present__  
   _Doctoral Researcher_ @ Technische Universität, Berlin, DE
 - __March '22 - September '23__  
-  _Doctoral Reseracher_ @ Hasso Plattner Institute, Potsdam, DE
+  _Doctoral Researcher_ @ Hasso Plattner Institute, Potsdam, DE
 - __October '19 - March '20__  
   _Software Development Intern_ @ SAP, New York, US
 - __March '18 - June '18__  
