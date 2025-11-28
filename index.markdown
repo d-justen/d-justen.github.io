@@ -43,11 +43,14 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 
 ## Work Experience
 
-- __October '23 - present__  
-  _Doctoral Researcher_ @ Technische Universität, Berlin, DE
-- __March '22 - September '23__  
-  _Doctoral Researcher_ @ Hasso Plattner Institute, Potsdam, DE
-- __October '19 - March '20__  
+- **DuckDB Labs**, Amsterdam, NL  
+  *Sep '25 - Nov '25*: Software Engineering Intern
+- **BIFOLD, Technische Universität**, Berlin, DE  
+  *Oct '23 - now*: Doctoral Researcher
+- **Hasso Plattner Institute**, Potsdam, DE  
+  *Mar '22 - Sep '23*: Doctoral Researcher
+- **SAP**, New York, US  
+  *Oct '19 - Mar '20*: Software Engineering Intern
   _Software Development Intern_ @ SAP, New York, US
 - __March '18 - June '18__  
   _Software Development Intern_ @ Native Instruments, Berlin, DE
