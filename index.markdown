@@ -6,22 +6,23 @@ title: David Justen
 layout: home
 ---
 
-I am PhD student at Technische Universität Berlin, supervised by [Prof. Matthias Boehm](https://mboehm7.github.io) and member of the [BIFOLD](https://www.bifold.berlin) Graduate School. 
+I am PhD student at Technische Universität Berlin, supervised by [Prof. Matthias Boehm](https://mboehm7.github.io) and member of the [BIFOLD](https://www.bifold.berlin) Graduate School.
 Prior to this, I was a researcher at Prof. Hasso Plattner's [Enterprise Platform and Integration Concepts](https://hpi.de/plattner/home.html) (EPIC) chair at the Hasso Plattner Institute in Potsdam.
-My research focusses on query optimization for analytical database systems and cloud-based data processing. 
+My research focusses on query optimization for analytical database systems and cloud-based data processing.
 Specifically, I am looking into adaptive query processing and robust plan generation to reduce the effects of erroneous cardinality estimates.
 
 ## Publications
+
 - David Justen, Matthias Boehm:  
   __Join Cardinality Estimation with OmniSketches__  
-  arXiv 2025 [[paper](https://arxiv.org/pdf/2508.17931), [code](https://github.com/d-justen/OmniSketchCpp)]  
+  arXiv 2025 [[pre-print](https://arxiv.org/pdf/2508.17931), [code](https://github.com/d-justen/OmniSketchCpp)]  
 
 - Thomas Bodner, Theo Radig, David Justen, Daniel Ritter, Tilmann Rabl:  
   __An Empirical Evaluation of Serverless Cloud Infrastructure for Large-Scale Data Processing__  
-  EDBT 2025 [[paper](https://openproceedings.org/2025/conf/edbt/paper-239.pdf), [code](https://github.com/hpides/skyrise)] <tag class="tag">👑 best paper</tag> 
+  EDBT 2025 [[paper](https://openproceedings.org/2025/conf/edbt/paper-239.pdf), [code](https://github.com/hpides/skyrise)] <tag class="tag">👑 best paper</tag>
   
 - David Justen, Daniel Ritter, Campbell Fraser, Andrew Lamb, Nga Tran, Allison Lee, Thomas Bodner, Mhd Yamen Haddad, Steffen Zeuch, Volker Markl, Matthias Boehm:  
-  __POLAR: Adaptive and Non-invasive Join Order Selection via Plans of Least Resistance__
+  __POLAR: Adaptive and Non-invasive Join Order Selection via Plans of Least Resistance__  
   PVLDB 2024 [[paper](assets/p1350-justen.pdf), [slides](assets/p1350-justen-slides.pdf), [poster](assets/p1350-justen-poster.pdf), [repro](https://github.com/damslab/reproducibility/tree/master/vldb2024-POLAR)]
 
 - David Justen:  
@@ -33,7 +34,7 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 - Information Systems and Data Analytics [[SS25](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40002&version=13)]
 - Programming Practical: Data Systems [[WS23](https://mboehm7.github.io/teaching/ws2324_ppds/index.htm), [SS24](https://mboehm7.github.io/teaching/ss24_ppds/index.htm)]
 - Research and Implementation of Database Concepts (HPI) [[WS22](https://hpi.de/plattner/teaching/archive/winter-term-2022-23/research-and-implementation-of-database-concepts.html)]
-- Develop Your Own Database (HPI) [[SS22](https://hpi.de/plattner/teaching/archive/summer-term-2022/develop-your-own-database.html)] 
+- Develop Your Own Database (HPI) [[SS22](https://hpi.de/plattner/teaching/archive/summer-term-2022/develop-your-own-database.html)]
 - Trends and Concepts of Business Application Architecture (HPI) [[SS22](https://hpi.de/plattner/teaching/archive/summer-term-2022/trends-and-concepts-of-business-application-architecture.html)]
 
 ## Thesis Supervision
@@ -43,23 +44,22 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 
 ## Work Experience
 
-- **DuckDB Labs**, Amsterdam, NL  
+- __DuckDB Labs__, Amsterdam, NL  
   `Sep '25 - Nov '25` Software Engineering Intern
-- **BIFOLD, Technische Universität**, Berlin, DE  
+- __BIFOLD, Technische Universität__, Berlin, DE  
   `Oct '23 - present` Doctoral Researcher
-- **Hasso Plattner Institute**, Potsdam, DE  
+- __Hasso Plattner Institute__, Potsdam, DE  
   `Mar '22 - Sep '23` Doctoral Researcher
-- **SAP**, New York, US  
+- __SAP__, New York, US  
   `Oct '19 - Mar '20` Software Engineering Intern
-- **Native Instruments**, Berlin, DE  
+- __Native Instruments__, Berlin, DE  
   `Mar '18 - Jun '18` Software Engineering Intern
 
 ## Education
 
-- **Hasso Plattner Institute**, Potsdam, DE  
+- __Hasso Plattner Institute__, Potsdam, DE  
   `'18 - '22` IT-Systems Engineering (M.Sc.)  
   Thesis: Cost-efficiency and Performance Robustness in Serverless Join Processing
-- **BHT**, Berlin, DE  
+- __BHT__, Berlin, DE  
   `'15 - '18` Media Computer Science (B.Sc.)  
   Thesis: Evolving Neural Networks to Steer Autonomous Agents in a Labyrinth
-
