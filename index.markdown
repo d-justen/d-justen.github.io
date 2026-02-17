@@ -23,7 +23,7 @@ Specifically, I am looking into adaptive query processing and robust plan genera
   
 - David Justen, Daniel Ritter, Campbell Fraser, Andrew Lamb, Nga Tran, Allison Lee, Thomas Bodner, Mhd Yamen Haddad, Steffen Zeuch, Volker Markl, Matthias Boehm:  
   __POLAR: Adaptive and Non-invasive Join Order Selection via Plans of Least Resistance__  
-  PVLDB 2024 [[paper](assets/p1350-justen.pdf), [slides](assets/p1350-justen-slides.pdf), [poster](assets/p1350-justen-poster.pdf), [repro](https://github.com/damslab/reproducibility/tree/master/vldb2024-POLAR)]
+  PVLDB 2024 [[paper](assets/p1350-justen.pdf), [slides](assets/p1350-justen-slides.pdf), [poster](assets/p1350-justen-poster.pdf), [repro](https://github.com/damslab/reproducibility/tree/master/vldb2024-POLAR)] <tag class="tag">🔄 reproduced</tag>
 
 - David Justen:  
   __Cost-efficiency and Performance Robustness in Serverless Data Exchange__  
