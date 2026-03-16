@@ -39,8 +39,14 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 
 ## Thesis Supervision
 
+- Youssef Moussa: _Adaptive Semijoin Reduction in Vectorized Execution Engines_. 2026
 - Marcel Scholand: _Skewed Data Generation for Realistic Data Warehouse Workloads_. 2024
 - Paul Pohlitz: _Adaptive Join Processing as a DuckDB Extension_. 2024
+
+## Service
+
+- Program Committee PVLDB 2027
+- Shadow PC PVLDB 2026
 
 ## Work Experience
 
