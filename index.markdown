@@ -6,8 +6,8 @@ title: David Justen
 layout: home
 ---
 
-I am PhD student at Technische Universität Berlin, supervised by [Prof. Matthias Boehm](https://mboehm7.github.io) and member of the [BIFOLD](https://www.bifold.berlin) Graduate School.
-Prior to this, I was a researcher at Prof. Hasso Plattner's [Enterprise Platform and Integration Concepts](https://hpi.de/plattner/home.html) (EPIC) chair at the Hasso Plattner Institute in Potsdam.
+I am a PhD student at Technische Universität Berlin, supervised by [Prof. Matthias Boehm](https://mboehm7.github.io) and member of the [BIFOLD](https://www.bifold.berlin) Graduate School.
+Prior to that, I was a researcher at Prof. Hasso Plattner's [Enterprise Platform and Integration Concepts](https://hpi.de/plattner/home.html) (EPIC) chair at the Hasso Plattner Institute in Potsdam.
 My research focusses on query optimization for analytical database systems and cloud-based data processing.
 Specifically, I am looking into adaptive query processing and robust plan generation to reduce the effects of erroneous cardinality estimates.
 
@@ -31,7 +31,7 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 
 ## Teaching
 
-- Information Systems and Data Analytics [[SS25](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40002&version=13)]
+- Information Systems and Data Analytics [[SS25](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40002&version=13), [SS26](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40002&version=14)]
 - Programming Practical: Data Systems [[WS23](https://mboehm7.github.io/teaching/ws2324_ppds/index.htm), [SS24](https://mboehm7.github.io/teaching/ss24_ppds/index.htm)]
 - Research and Implementation of Database Concepts (HPI) [[WS22](https://hpi.de/plattner/teaching/archive/winter-term-2022-23/research-and-implementation-of-database-concepts.html)]
 - Develop Your Own Database (HPI) [[SS22](https://hpi.de/plattner/teaching/archive/summer-term-2022/develop-your-own-database.html)]
@@ -46,7 +46,7 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 ## Service
 
 - Program Committee PVLDB 2027
-- Shadow PC PVLDB 2026
+- Program Committee (Demo Track), Shadow PC PVLDB 2026
 
 ## Work Experience
 
