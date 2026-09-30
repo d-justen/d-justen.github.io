@@ -50,7 +50,7 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 
 ## Work Experience
 
-- __DuckDB Labs__, Amsterdam, NL  
+- __DuckLabs__, Amsterdam, NL  
   `Dec '25 - present` Freelance Software Engineer  
   `Sep '25 - Nov '25` Software Engineering Intern
 - __BIFOLD, Technische Universität__, Berlin, DE  
