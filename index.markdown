@@ -6,10 +6,9 @@ title: David Justen
 layout: home
 ---
 
-I am a PhD student at Technische Universität Berlin, supervised by [Prof. Matthias Boehm](https://mboehm7.github.io) and member of the [BIFOLD](https://www.bifold.berlin) Graduate School.
-Prior to that, I was a researcher at Prof. Hasso Plattner's [Enterprise Platform and Integration Concepts](https://hpi.de/plattner/home.html) (EPIC) chair at the Hasso Plattner Institute in Potsdam.
-My research focusses on query optimization for analytical database systems and cloud-based data processing.
-Specifically, I am looking into adaptive query processing and robust plan generation to reduce the effects of erroneous cardinality estimates.
+I am a Doctoral Researcher at Technische Universität Berlin, supervised by [Prof. Matthias Boehm](https://mboehm7.github.io) and member of the [BIFOLD](https://www.bifold.berlin) Graduate School.
+Prior to that, I was at Prof. Hasso Plattner's [Enterprise Platform and Integration Concepts](https://hpi.de/plattner/home.html) (EPIC) chair at the Hasso Plattner Institute in Potsdam.
+My research focusses on query optimization, adaptive query processing, and performance robustness in relational database management systems.
 
 ## Publications
 
@@ -31,6 +30,7 @@ Specifically, I am looking into adaptive query processing and robust plan genera
 
 ## Teaching
 
+- Data Management and Systems [[WS26](https://mboehm7.github.io/teaching/ws2627_dms/index.htm)]
 - Information Systems and Data Analytics [[SS25](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40002&version=13), [SS26](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=40002&version=14)]
 - Programming Practical: Data Systems [[WS23](https://mboehm7.github.io/teaching/ws2324_ppds/index.htm), [SS24](https://mboehm7.github.io/teaching/ss24_ppds/index.htm)]
 - Research and Implementation of Database Concepts (HPI) [[WS22](https://hpi.de/plattner/teaching/archive/winter-term-2022-23/research-and-implementation-of-database-concepts.html)]
